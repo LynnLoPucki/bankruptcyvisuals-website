@@ -1,0 +1,22 @@
+Bankruptcy Visuals™
+Graphics that explain bankruptcy procedure
+
+[photo]
+
+Bankruptcy Visuals are available free of charge by download from this website.
+Bankruptcy Visuals are available for Chapter 7 (liquidation), Chapter 11 (reorganization), and Chapter 13 (debt adjustment).
+You may print copies of the Bankruptcy Visuals pursuant to a Creative Commons 4.0 NC BY ND license.  The terms of that license are available from Creative Commons. 
+[David: I could figure out who the licenses are supposed to be implemented on a website.  I am hoping that you can.]  
+The terms are:
+  Attribution (BY)
+Copies of the work must credit Lynn M. LoPucki as the author by reproducing the work with the attribution that appears on it.
+  NonCommercial (NC)
+You may copy, distribute, or display Bankruptcy Visuals only for a non-commercial purpose, unless you first obtain the permission of Lynn M. LoPucki.
+  NoDerivatives (ND)
+You may copy, distribute, or display Bankruptcy Visuals only in their complete, original form. To modify a Bankruptcy Visual, you must have the permission of Lynn M. LoPucki.
+
+[Large download buttons for “Chapter 7” “Chapter 11” and “Chapter 13”]
+[David: I would also like a separate page on which the user can view each of the visuals, zoom in an out, and scroll horizontally and vertically—similar to the one here http://www.bankruptcyvisuals.com/viewcharts.html.]
+
+
+
